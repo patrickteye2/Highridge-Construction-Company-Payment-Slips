@@ -3,7 +3,7 @@
 
 ###  Project: Employee Payslip Generator in R
 
-This project defines a function in **R** to generate synthetic employee data. Each employee is assigned a unique ID, a random salary, a randomly selected gender, and a level classification based on salary and gender criteria. The output is useful for simulations, testing, mock HR datasets, or learning data handling in R.
+This project defines a function in **R** to generate synthetic employee data. Each employee is assigned a unique ID, a random salary, a randomly selected gender, and a level classification based on salary and gender criteria.
 
 ---
 
